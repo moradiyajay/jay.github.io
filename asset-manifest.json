@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.891ad7bb.css",
+    "main.js": "/static/js/main.1596d151.js",
+    "static/media/HeroImage.jpg": "/static/media/HeroImage.493b80c8f11c95c41d34.jpg",
+    "static/media/workSocial.png": "/static/media/workSocial.0a10d6c3f87c7ee17633.png",
+    "static/media/weDrow.png": "/static/media/weDrow.1ce1f5c41e5b5cdc5ed7.png",
+    "static/media/shopping.png": "/static/media/shopping.935fb30dce89ad93d952.png",
+    "static/media/colors_click.png": "/static/media/colors_click.cf68a2c49081e4cd84a9.png",
+    "static/media/srp.png": "/static/media/srp.5d095faaab4eee421eec.png",
+    "static/media/pythagora.png": "/static/media/pythagora.5154dd6c832649f19b14.png",
+    "index.html": "/index.html",
+    "main.891ad7bb.css.map": "/static/css/main.891ad7bb.css.map",
+    "main.1596d151.js.map": "/static/js/main.1596d151.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.891ad7bb.css",
+    "static/js/main.1596d151.js"
+  ]
+}
